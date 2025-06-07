@@ -1,0 +1,16 @@
+{
+  "name": "kasper_work",
+  "version": "1.0.0",
+  "description": "contains the code practiced during internship period of kasper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashwat Mittal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
+}
